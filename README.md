@@ -42,6 +42,8 @@ terraform init
 terraform apply -target=module.backend
 ```
 
+Do the same for Azure and Google. 
+
 ### Step 2: Configure backend.tf
 
 Fill the `backend.tf` block with your remote state config once created.
