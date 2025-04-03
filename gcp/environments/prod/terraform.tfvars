@@ -1,0 +1,7 @@
+project_id  = "t2s-gcp-dev"
+region      = "us-central1"
+bucket_name = "t2s-gcp-dev-tfstate"
+location    = "US"
+folder_name = "T2S-GCP-Dev"
+parent_id   = "organizations/1234567890"
+org_id      = "1234567890"

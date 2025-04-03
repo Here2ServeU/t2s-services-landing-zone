@@ -1,0 +1,5 @@
+prefix               = "t2s-azure-dev"
+location             = "eastus"
+storage_account_name = "t2sazuredevsa"
+root_name            = "T2S"
+env_name             = "T2S-Dev"

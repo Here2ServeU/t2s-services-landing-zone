@@ -1,0 +1,6 @@
+region         = "us-east-1"
+bucket_name    = "t2s-aws-dev-tfstate"
+table_name     = "t2s-aws-dev-locks"
+ou_name        = "T2S-AWS-Dev"
+guardrail_name = "DenyInternetAccess"
+control_id     = "guardrail-control-id-123"
