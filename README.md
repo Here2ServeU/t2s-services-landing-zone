@@ -87,3 +87,24 @@ All cloud environments use:
   - hashicorp/aws
   - hashicorp/azurerm
   - hashicorp/google
+
+---
+
+## Use Cases
+
+This Terraform project enables organizations to:
+
+1.	**Establish a Multi-Cloud Landing Zone**
+- Set up secure, scalable, and compliant environments across AWS, Azure, and GCP.
+
+2.	**Standardize Infrastructure as Code (IaC)**
+- Use modular, reusable Terraform code with best practices for backend, org-structure, and policies.
+
+3.	**Isolate Dev, Stage, and Prod Workloads**
+- Support CI/CD pipelines with environment-specific configurations and state management.
+
+4.	**Enforce Security and Governance**
+- Apply policies such as denying public IPs using AWS Control Tower guardrails, Azure Policies, and GCP Org Policies.
+
+5.	**Support Multi-Account/Project Environments**
+- Use AWS OUs, Azure Management Groups, and GCP Folders to structure and govern workloads across departments.
